@@ -266,10 +266,15 @@ function App() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex justify-between items-center h-16">
             <div className="flex items-center">
-              <TreePine className="h-8 w-8 text-green-600" />
-              <span className="ml-2 text-xl font-bold text-gray-900">
+              {/* <TreePine className="h-8 w-8 text-green-600" /> */}
+              <img
+                src="../public/climefy.jpeg"
+                alt="Climefy Logo"
+                className="h-8"
+              />
+              {/* <span className="ml-2 text-xl font-bold text-gray-900">
                 Climefy
-              </span>
+              </span> */}
             </div>
             <nav className="flex space-x-8">
               <button
