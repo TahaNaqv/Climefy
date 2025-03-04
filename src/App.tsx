@@ -268,7 +268,7 @@ function App() {
             <div className="flex items-center">
               {/* <TreePine className="h-8 w-8 text-green-600" /> */}
               <img
-                src="public/climefy.jpeg"
+                src="https://raw.githubusercontent.com/TahaNaqv/Climefy/refs/heads/main/public/climefy.jpeg"
                 alt="Climefy Logo"
                 className="h-8"
               />
