@@ -1,0 +1,3 @@
+[build]
+  command = "npm run build"   # or "yarn build" if you use Yarn
+  publish = "dist"            # Vite outputs the build to the "dist" directory by default
